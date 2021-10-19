@@ -1,0 +1,7 @@
+C:\Users\Tempest\Desktop\Nova\Si\New folder\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Tempest\Desktop\Nova\Si\New folder\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Tempest\Desktop\Nova\Si\New folder\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Tempest\Desktop\Nova\Si\New folder\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\Tempest\Desktop\Nova\Si\New folder\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Tempest\Desktop\Nova\Si\New folder\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Tempest\Desktop\Nova\Si\New folder\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
